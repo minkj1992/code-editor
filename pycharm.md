@@ -9,6 +9,8 @@ toc: true
 images: [https://source.unsplash.com/collection/1245/1200x628]
 ---
 
+- [pycharm docs](https://www.jetbrains.com/help/pycharm/working-with-source-code.html)
+
 # feature
 > macos(Bigsur) 기준
 
